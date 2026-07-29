@@ -1,0 +1,17 @@
+# Dataset files
+*.csv
+Mall_Customers.csv
+
+# Kaggle credentials
+kaggle.json
+
+# Jupyter & IDE temporary folders
+.ipynb_checkpoints/
+.virtual_documents/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
